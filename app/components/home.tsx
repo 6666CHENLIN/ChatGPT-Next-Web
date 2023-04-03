@@ -105,7 +105,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>起风ChatGPT</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant（不许瑟瑟）.
+            wx：clzdq6666（好好玩吧）.
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
